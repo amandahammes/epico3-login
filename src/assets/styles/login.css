@@ -1,0 +1,70 @@
+body {
+    font-family: "Archivo", sans-serif;
+}
+
+main {
+    display:grid;
+    grid-template-columns: 50% 50%;
+    place-items: center;
+}
+
+#imagem-logo {
+    margin: 0 auto;
+    max-width: 500px;
+    max-height: 420px;
+    position: relative;
+}
+
+#espaco-logo {
+    max-width: 958px;
+    max-height: 1024px;
+    justify-content: center;
+    align-items: center;
+    background-color: #F3FFF2;
+    /* margin: 0 auto; */
+    overflow: hidden;
+}
+
+#formulario_login {
+    display: grid;
+    justify-content: center;
+    margin: 10px;
+}
+
+#itens-form > div {
+    display: grid;
+    grid-gap: 20px;
+}
+
+h1 {
+    font-weight: 600;
+    size: 32px;
+    line-height: 34.82px;
+}
+
+h2 {
+    font-weight: 500;
+    size: 20px;
+    line-height: 21.76px;
+    color: #1A202C;
+}
+
+#botao-entrar {
+    background-color: #1E9E6A;
+}
+
+#formulario-login > label {
+    font-weight: 400;
+    size: 18px;
+    line-height: 19.58px;
+    color: #1A202C;
+}
+
+#formulario-login > input {
+    width: 400px;
+    height: 49px;
+    padding: 16px;
+    gap: 8px;
+    background-color: #E8E8E8;
+    border: 1px;
+}
