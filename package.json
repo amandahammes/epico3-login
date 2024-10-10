@@ -1,0 +1,19 @@
+{
+  "name": "projeto-login",
+  "version": "1.0.0",
+  "description": "Página login conhecimentos front",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amandahammes/epico3-login.git"
+  },
+  "author": "Amanda K Hammes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandahammes/epico3-login/issues"
+  },
+  "homepage": "https://github.com/amandahammes/epico3-login#readme"
+}
